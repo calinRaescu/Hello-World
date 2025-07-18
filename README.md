@@ -1,2 +1,2 @@
-# Hello-World
-My first project
+# My first project
+print("Hello World")
